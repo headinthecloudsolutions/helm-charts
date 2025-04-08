@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  kadense:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2025-04-08T17:40:52.111731178Z"
+    description: A Helm chart for Kubernetes
+    digest: 4a22df2282809ad8248d6c7245af69004c1bf4fb7ae9ebf82e1ba711f55484e0
+    name: kadense
+    type: application
+    urls:
+    - kadense-0.1.49.tgz
+    version: 0.1.49
+generated: "2025-04-08T17:40:52.111224047Z"

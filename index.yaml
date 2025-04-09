@@ -3,7 +3,17 @@ entries:
   kadense:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-04-08T18:50:00.832908902Z"
+    created: "2025-04-09T23:41:07.753712867Z"
+    description: A Helm chart for Kubernetes
+    digest: c424391160554566e5f2368ef1fa65eec3fc3f90e28f79dfbb952bf1ba3ba194
+    name: kadense
+    type: application
+    urls:
+    - kadense-0.1.54.tgz
+    version: 0.1.54
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2025-04-09T23:41:07.753379656Z"
     description: A Helm chart for Kubernetes
     digest: 1a667765701e0ce9ecd0ed2ab1a0568defdd293fd28d4f56490715e6b3b2c349
     name: kadense
@@ -13,7 +23,7 @@ entries:
     version: 0.1.53
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-04-08T18:50:00.832546966Z"
+    created: "2025-04-09T23:41:07.753085017Z"
     description: A Helm chart for Kubernetes
     digest: 13705b804fad8bcb8010bfe1d71e53970e6dfd18de96bf74f6b4e6d2ac45a30c
     name: kadense
@@ -23,7 +33,7 @@ entries:
     version: 0.1.50
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-04-08T18:50:00.832202882Z"
+    created: "2025-04-09T23:41:07.752768318Z"
     description: A Helm chart for Kubernetes
     digest: 4a22df2282809ad8248d6c7245af69004c1bf4fb7ae9ebf82e1ba711f55484e0
     name: kadense
@@ -31,4 +41,4 @@ entries:
     urls:
     - kadense-0.1.49.tgz
     version: 0.1.49
-generated: "2025-04-08T18:50:00.831671829Z"
+generated: "2025-04-09T23:41:07.752239072Z"
